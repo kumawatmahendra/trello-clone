@@ -1,2 +1,1 @@
-# trello-clone
-Trello Clone
+# trello-board-like-UI
